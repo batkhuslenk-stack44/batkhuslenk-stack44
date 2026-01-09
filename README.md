@@ -17,7 +17,7 @@
 
 ---
 
-## ☕ Buy Me a Coffee
+## ☕   Coffee with me
 
 If you find my work helpful, consider buying me a coffee!
 
