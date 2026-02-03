@@ -2,18 +2,12 @@
 <!-- Typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Baljir!;Full-Stack+Developer;JLPT+N2+Certified;Deploying+for+Japan"
+    
     alt="Typing SVG"
   />
 </p>
 
 ## 👨‍💻 About Me
-
-- 💼 Former Engineer & Business Manager in Japan 🇯🇵  
-- 💡 Experience installing LED servers at Japan’s biggest domes  
-- 🌱 Studying JLPT N1 + Advanced React/Next.js  
-- 🌐 Building learning platforms for Mongolian students in Japan  
-- 🎓 MBA + Mining Engineer + Full-Stack Developer  
 
 ---
 
@@ -35,15 +29,6 @@ If you find my work helpful, consider buying me a coffee!
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-Component%20Library-ef4444?style=for-the-badge)
 
 ### ⚙️ Backend & Hosting
 
@@ -55,46 +40,17 @@ If you find my work helpful, consider buying me a coffee!
 
 ---
 
-## 🏅 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
-  <img src="https://img.shields.io/badge/MBA-Business-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mining%20Engineer-Bachelor-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-Certified-yellowgreen?style=for-the-badge" />
-</p>
+
 
 ---
-
-## 🌍 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🌐 Kittokatsu.pro](https://kittokatsu.pro) | JLPT N1/N2 vocabulary learning for Mongolian speakers |
-| [🧠 Coding Platform](https://hellobraincode.com) | Online coding platform for Mongolians in Japan |
-| [🏗 Dynamic Homepage](https://baljir0901.github.io/homies-website/) | Construction company homepage built with React |
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baljir0901&theme=tokyonight" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baljir0901&theme=onedark&column=6" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -106,16 +62,11 @@ If you find my work helpful, consider buying me a coffee!
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://youtube.com/@baljiRRR"><img src="https://img.shields.io/badge/YouTube-Kittokatsu-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://baljir.org"><img src="https://img.shields.io/badge/Website-baljir.org-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:baljir0901@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
 ## 🤹‍♂️ Fun Fact
 
-> I smoke 🚬, drink coffee ☕, and used to run away from bugs 🐛  
+>, drink coffee ☕, and used to run away from bugs 🐛  
 > Now I’m **running sport master** — physically and in code 🏃‍♂️💻  
 > No more `console.log("panic")` — only `git push origin success` 🚀
