@@ -52,10 +52,9 @@ If you find my work helpful, consider buying me a coffee!
 ---
 
 
-## 🐍 Contribution Snake
+## 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/baljir0901/baljir0901/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
