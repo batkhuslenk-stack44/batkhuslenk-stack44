@@ -34,34 +34,6 @@
 </p>
 
 ---
-
-### 💻 Code I'm Proud Of
-
-```javascript
-/**
- * A flexible API fetcher with automatic retry and exponential backoff.
- * Demonstrates my understanding of async/await, recursion, and error handling.
- */
-async function fetchWithRetry(url, options = {}, retries = 3, backoff = 300) {
-  try {
-    const response = await fetch(url, options);
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-    return await response.json();
-  } catch (error) {
-    if (retries > 0) {
-      // Wait for the backoff duration before retrying
-      await new Promise(resolve => setTimeout(resolve, backoff));
-      return fetchWithRetry(url, options, retries - 1, backoff * 2);
-    }
-    throw new Error('Fetch failed. ❌');
-  }
-}
-```
-
----
-
 ### 🚀 My Projects
 
 *... (I am currently working on some exciting Web Projects. I will showcase them here very soon!)*
