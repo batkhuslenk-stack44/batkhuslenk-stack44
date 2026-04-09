@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&animation=fadeIn" width="100%" />
+  <h2>🕊️</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=2000&color=0e75b6&center=true&vCenter=true&width=600&height=50&lines=For+God+so+loved+the+world...;that+he+gave+his+only+Son,...;that+whoever+believes+in+him;should+not+perish+but+have+eternal+life.;~+John+3:16+~;I+can+do+all+things+through+Christ;who+strengthens+me.;~+Philippians+4:13+~;The+Lord+is+my+shepherd;I+shall+not+want.;~+Psalm+23:1+~" alt="Bible Verses" />
 </div>
 
 <div align="center">
-  <img src="./profile.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=✝️%20Welcome%20To%20My%20Profile!%20🕊️&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
   
-  <h2>Hi there! 👋 I'm [Batkhuslen]</h2>
-  <p><i> I can do all things through Christ who strengthens me..</i></p>
+  <h2>Hi there! 👋 I'm [Bat-Khuslen]</h2>
+  <p><i>A passionate learner diving into IT and Software Development.</i></p>
 </div>
 
 ---
@@ -31,13 +35,36 @@
 
 ---
 
-### 📈 GitHub Stats
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
+### 💻 Code I'm Proud Of
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="GitHub Streak" />
-</div>
+```javascript
+/**
+ * A flexible API fetcher with automatic retry and exponential backoff.
+ * Demonstrates my understanding of async/await, recursion, and error handling.
+ */
+async function fetchWithRetry(url, options = {}, retries = 3, backoff = 300) {
+  try {
+    const response = await fetch(url, options);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return await response.json();
+  } catch (error) {
+    if (retries > 0) {
+      // Wait for the backoff duration before retrying
+      await new Promise(resolve => setTimeout(resolve, backoff));
+      return fetchWithRetry(url, options, retries - 1, backoff * 2);
+    }
+    throw new Error('Fetch failed. ❌');
+  }
+}
+```
+
+---
+
+### 🚀 My Projects
+
+*... (I am currently working on some exciting Web Projects. I will showcase them here very soon!)*
 
 ---
 
@@ -49,9 +76,3 @@
   <a href="https://www.instagram.com/bato_and_jesus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
