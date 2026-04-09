@@ -5,8 +5,8 @@
 <div align="center">
   <img src="./profile.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
   
-  <h2>Hi there! 👋 I'm [Your Name]</h2>
-  <p><i>A passionate learner diving into IT and Software Development.</i></p>
+  <h2>Hi there! 👋 I'm [Batkhuslen]</h2>
+  <p><i> I can do all things through Christ who strengthens me..</i></p>
 </div>
 
 ---
